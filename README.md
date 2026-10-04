@@ -14,7 +14,6 @@
 * ⚡ **Fun Fact:** Addicted to crime thrillers and true crime stories — trying to crack the case before the big reveal!
 
 ## 🛠️ Tech Stack & Tooling
-### 🛠️ Technologies & Tools
 
 | Domain                 | Technologies & Tools                             |
 | :--------------------- | :----------------------------------------------- |
