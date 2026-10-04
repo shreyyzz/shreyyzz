@@ -25,7 +25,12 @@
 | **Developer Tools**    | GitHub, VS Code                             |
 
 ## 📌 Featured Repositories
-### ⚡ [c-programming-foundations](
+### ⚡ [c-programming-foundations](https://github.com/shreyyzz/c-programming-foundations-)
+*A growing collection of C programs I write while building my programming fundamentals.*
+
+- Practices loops, arrays, and step-by-step logic for solving problems.
+- `C Language` • `Coursework` • `Fundamentals`
+
 
 
 
