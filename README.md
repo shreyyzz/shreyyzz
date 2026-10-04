@@ -30,6 +30,25 @@
 
 - Practices loops, arrays, and step-by-step logic for solving problems.
 - `C Language` • `Coursework` • `Fundamentals`
+---
+
+### 🗺️ Career Roadmap
+
+* ✅ Build strong CS fundamentals, Linux and Windows internals, and Python scripting
+* 🔄 Learn networking, SIEM and log analysis, memory and disk forensics, and the incident response lifecycle (NIST 800-61)
+* 🎯 Earn foundational security certifications (e.g. CompTIA Security+ / BTL1), then a DFIR-specific cert (e.g. GCFE / HTB CDSA)
+* 🎯 Grow into DFIR analyst, then incident response lead, threat hunting, or cloud and mobile forensics specialization
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
