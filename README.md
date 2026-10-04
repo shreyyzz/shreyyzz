@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello, World! I'm Shreeya
+##CSE - cyber security student | on a journey into CYBER | DFIR focused
 
-<!--
-**shreyyzz/shreyyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeya-j-351701404?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyyzz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)]
+(mailto:shreeyajayalakshmi@gmail.com)
 
-Here are some ideas to get you started:
+## About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Computer Science and Engineering (Cyber Security) student exploring the world of digital forensics
+* 🎯 **Core Goal:** Striving to build a career in Digital Forensics and Incident Response (DFIR).
+* 🔎 **My Interests:** Digital investigations, cybercrime analysis, uncovering digital evidence, and decoding how cyberattacks happen.
+* 📚 **Currently Learning:** C Programming, Computer Networking Fundamentals, and Cybersecurity Basics.
+* ⚡ **Fun Fact:** Addicted to crime thrillers and true crime stories — trying to crack the case before the big reveal!
+
+## 🛠️ Tech Stack & Tooling
+### 🛠️ Technologies & Tools
+
+| Domain                 | Technologies & Tools                             |
+| :--------------------- | :----------------------------------------------- |
+| **Programming**        | C (Learning), Python (Learning)                  |
+| **Operating Systems**  | Linux (Learning), Windows (Fundamentals)         |
+| **Networking**         | Network Fundamentals (Completed) ✅              |
+| **Security Tools**     | Wireshark (Learning), CyberChef (Learning)       |
+| **Practice Platforms** | CTFs (Exploring), Cybersecurity Labs (Exploring) |
+| **Developer Tools**    | GitHub, VS Code                             |
+
+
