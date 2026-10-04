@@ -41,9 +41,7 @@
 
 ### 🏆 Certifications and Achievements 
 
-### Network Fundamentals 101 – Infosys Springboard
-![Network Fundamentals 101 Certificate](<network fundamentals- 101.jpg>)
-
+✅### Network Fundamentals 101 – Infosys Springboard (completed)
 🔄 CompTIA Security+ (planned)
 * 🎯 Blue Team Level 1 (BTL1) or CompTIA CySA+
 * 🎯 GCFE / GCFA, HTB CDSA or eCDFIR
