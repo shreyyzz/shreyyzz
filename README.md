@@ -42,7 +42,7 @@
 ###🏆 Certifications and Achievements 
 
 ### Network Fundamentals 101 – Infosys Springboard
-![Network Fundamentals 101 Certificate](certificates/network-fundamentals-101.jpg)
+![Network Fundamentals 101 Certificate](<network fundamentals- 101.jpg>)
 
 
 
