@@ -3,8 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeya-j-351701404?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyyzz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)]
-(mailto:shreeyajayalakshmi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreeyajayalakshmi@gmail.com)
 
 ## About me 
 
