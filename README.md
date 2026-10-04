@@ -24,7 +24,8 @@
 | **Practice Platforms** | CTFs (Exploring), Cybersecurity Labs (Exploring) |
 | **Developer Tools**    | GitHub, VS Code                             |
 
-
+## 📌 Featured Repositories
+### ⚡ [c-programming-foundations](
 
 
 
