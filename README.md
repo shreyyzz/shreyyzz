@@ -41,11 +41,11 @@
 
 ### 🏆 Certifications and Achievements 
 
-### ✅ Network Fundamentals 101 – Infosys Springboard (completed)
+### ✅ Network Fundamentals 101 – Infosys Springboard (certified)
 🔄 CompTIA Security+ (planned)
-* 🎯 Blue Team Level 1 (BTL1) or CompTIA CySA+
-* 🎯 GCFE / GCFA, HTB CDSA or eCDFIR
-* 🎯 Publish 5-8 DFIR lab writeups on GitHub (CyberDefenders, BlueTeamLabs, LetsDefend)
+🎯 Blue Team Level 1 (BTL1) or CompTIA CySA+
+🎯 GCFE / GCFA, HTB CDSA or eCDFIR
+🎯 Publish 5-8 DFIR lab writeups on GitHub (CyberDefenders, BlueTeamLabs, LetsDefend)
 
 ### Connect With Me 
 https://www.linkedin.com/in/shreeya-j-351701404?utm_source=share_via&utm_content=profile&utm_medium=member_ios
