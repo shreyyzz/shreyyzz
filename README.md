@@ -39,6 +39,10 @@
 * 🎯 Earn foundational security certifications (e.g. CompTIA Security+ / BTL1), then a DFIR-specific cert (e.g. GCFE / HTB CDSA)
 * 🎯 Grow into DFIR analyst, then incident response lead, threat hunting, or cloud and mobile forensics specialization
 
+###🏆 Certifications and Achievements 
+
+### Network Fundamentals 101 – Infosys Springboard
+![Network Fundamentals 101 Certificate](certificates/network-fundamentals-101.jpg)
 
 
 
